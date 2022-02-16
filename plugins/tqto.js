@@ -17,8 +17,8 @@ let handler = async (m) => {
 let tqto = `
 *BIG THANKS TO*
 
-Nurutomo : 
-https://github.com/Nurutomo
+LeonGanz : 
+https://youtube.com/c/LeonGanz
 
 Istikmal : 
 https://github.com/BochilGaming
