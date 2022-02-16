@@ -1,7 +1,7 @@
 let fs = require('fs')
 
-global.owner = ['628992029499'] // Put your number here
-global.mods = ['6283116629498'] // Want some help?
+global.owner = ['6285756228890'] // Put your number here
+global.mods = ['6285608625102'] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
   // name: 'https://website'
