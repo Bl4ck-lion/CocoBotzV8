@@ -1,6 +1,6 @@
 let fs = require('fs')
 
-global.owner = ['6285756228890'] // Put your number here
+global.owner = ['6285608625102'] // Put your number here
 global.mods = ['6285608625102'] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
@@ -36,19 +36,19 @@ leyskey = 'IkyOgiwara'
 bearkey = 'Apikey'
 ApiiKey = 'https://youtube/c/LeonGanz'
 
-namabot = 'Rifaii bot'
-namalu = 'Rifaii Store'
+namabot = 'Yui-Chan'
+namalu = 'LeonGanz'
 footer = '\n©By LeonGanz'
 kasihcaption = `Ini Kak :)`
 
 // Sticker WM
 global.stiker_wait = '_*Chottomatte 😸...*_'
-global.packname = 'Rifai Multi Device'
-global.author = 'Rifai X LeonGanz'
+global.packname = 'Yui Multi Device'
+global.author = 'LeonGanz'
 global.email = 'ramaagung050307@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wm = '©Rifai'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
+global.wm = '©YuiCantik'
+global.media = 'https://telegra.ph/file/dc30f9d1b64f04537bf77.jpg'
 
 global.wait = '_*Chottomatte 😸...*_'
 global.eror = '_*Server Error*_'
